@@ -3,7 +3,7 @@
 Sistema de Gestión de Procesos de Negocio (Business Process Management - BPM) desarrollado en PHP, diseñado para permitir la creación visual de formularios y flujos de trabajo (BPMN), ejecución de procesos, asignación de tareas y seguimiento de solicitudes.
 
 ## 📁 Estructura del Proyecto
-
+```
 /bpm-project/
 │
 ├── /public/                          # Carpeta pública accesible desde el navegador
@@ -92,7 +92,7 @@ Sistema de Gestión de Procesos de Negocio (Business Process Management - BPM) d
 ├── package.json                     # Dependencias JS (si usas npm/yarn)
 ├── README.md                        # Documentación principal
 └── .env                             # Variables de entorno (opcional)
-
+```
 --- 
 
 ## ⚙️ Funcionalidades Principales
